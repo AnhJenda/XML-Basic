@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE program SYSTEM "program.dtd">
+<program>
+    <comments>
+        This is a simple JAVA Program. It ....
+    </comments>
+    <code>
+        public static void main(String[] args)
+        System.out.println(HIHI")
+    </code>
+</program>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<mail
+    xmlns="https://www.abc.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.abc.com mail.xsd">
+    <to>John</to>
+    <from>Jordan</from>
+    <header>Scheduler</header>
+    <body>3rd March Monday</body>
+</mail>

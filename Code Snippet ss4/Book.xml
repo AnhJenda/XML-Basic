@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Book>
+    <Title>Path to Paradise</Title>
+    <Author>David White</Author>
+    <Theme>Philosophy</Theme>
+    <Publisher>ABC Publication</Publisher>
+    <ISBN>11</ISBN>
+    <Price>12418</Price>
+    <Edition>June 2000</Edition>
+</Book>
