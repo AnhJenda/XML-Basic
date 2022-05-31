@@ -7,13 +7,13 @@
         <nickname>thidk</nickname>
         <salary>30000</salary>
     </employee>
-    <employee>
+    <employee id="024">
         <firstname>Code</firstname>
         <lastname>Lean</lastname>
         <nickname>dangkimthi</nickname>
         <salary>25000</salary>
     </employee>
-    <employee>
+    <employee id="056">
         <firstname>FPT</firstname>
         <lastname>Aptech</lastname>
         <nickname>fptaptech</nickname>
